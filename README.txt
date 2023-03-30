@@ -1,4 +1,4 @@
-This is a Winform application demo made by Ly Dang Minh.
+This is a Winform application demo made by Ly Dang Minh. Email: lydangminh2706@gmail.com
 
 - It can help the user manage a list of Items in a supermarket.
 - Employees can check the quantity of currently-in-stock items as well as add or subtract from it.
