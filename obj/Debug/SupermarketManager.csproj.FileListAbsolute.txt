@@ -1,0 +1,12 @@
+C:\MINH\_WinformProjects\SupermarketManager\bin\Debug\SupermarketManager.exe.config
+C:\MINH\_WinformProjects\SupermarketManager\bin\Debug\SupermarketManager.exe
+C:\MINH\_WinformProjects\SupermarketManager\bin\Debug\SupermarketManager.pdb
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.csproj.AssemblyReference.cache
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.csproj.SuggestedBindingRedirects.cache
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.MainMenu.resources
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.LoginMenu.resources
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.Properties.Resources.resources
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.csproj.GenerateResource.cache
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.csproj.CoreCompileInputs.cache
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.exe
+C:\MINH\_WinformProjects\SupermarketManager\obj\Debug\SupermarketManager.pdb
